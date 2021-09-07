@@ -7,3 +7,6 @@ This project is intended to enable extension of youtube-dl (and possibly other p
 3. Transpile the extensions back to Python and either request to integrate them into the main project or allow this to remain a fork of youtube-dl
 4. Build youtube-dl (or the fork)
 5. Enjoy our new enhanced functionality, written in any language we want!
+
+## Note
+Once the code that trabspiles the necessary files is complete enough to create an extensible youtube-dl SDK, I wil pubish to the server.
