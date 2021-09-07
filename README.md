@@ -9,4 +9,4 @@ This project is intended to enable extension of youtube-dl (and possibly other p
 5. Enjoy our new enhanced functionality, written in any language we want!
 
 ## Note
-Once the code that trabspiles the necessary files is complete enough to create an extensible youtube-dl SDK, I wil pubish to the server.
+Once the code that transpiles the necessary files is complete enough to create an extensible youtube-dl SDK, I wil pubish to the server.
